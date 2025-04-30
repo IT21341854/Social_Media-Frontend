@@ -46,7 +46,7 @@ function NewsFeed() {
         <Col md={4}>
           <Row className="justify-content-center align-items-center">
             <Col md="auto" className="text-sm-start text-center mb-sm-0 mb-3">
-              <img src={logo} width="80" alt="logo" />
+              {/* <img src={logo} width="80" alt="logo" /> */}
             </Col>
             <Col className="text-sm-start text-center text-dark mb-sm-0 mb-3">
               <h2>Social Network</h2>

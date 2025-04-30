@@ -36,7 +36,7 @@ function HomePage() {
           <div>           
             <Row>
               <h3 className="my-3">
-              <img src={psnLogo} alt="PSN logo" width={120} className="mb-3" />
+              {/* <img src={psnLogo} alt="PSN logo" width={120} className="mb-3" /> */}
               </h3>
             </Row>
           </div>
